@@ -130,8 +130,8 @@ int _builtins(char **av, char *buffer, int exitstatus)
         return (0);
 }
 /**
- * _forkprocess - create child process to execute based on user input
- * @argv: pointer to array of user of strings
+ * _forking - create child process to execute based on user input
+ * @av: pointer to array of user of strings
  * @buffer: pointer to user string
  * @fullpathbuffer: pointer to user input
  *
