@@ -47,7 +47,7 @@ void _puts(char *str)
 }
 /**
  * _putchar - prints a character
- * @c: character to print
+ * @b: character to print
  *
  * Return: return value of write syscall
  */
